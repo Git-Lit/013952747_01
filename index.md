@@ -1,3 +1,7 @@
+---
+layout: default
+title: Lizzie Leigh and other tales (Volume 1)
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 

@@ -1,0 +1,43 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Lizzie Leigh and other tales (Volume 1)
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the text of <em>Lizzie Leigh and other tales (Volume 1)</em> by ['Gaskell, Elizabeth Cleghorn', '1810-1865'], adapted from a British Library 
+  electronic text.
+baseurl: "" # the subpath of your site, e.g. /blog
+book_id: "013952747_01"
+url: "https://git-lit.github.io/013952747_01" 
+
+about: > 
+  This is an electronic text of <em>Lizzie Leigh and other tales (Volume 1)</em> by ['Gaskell, Elizabeth Cleghorn', '1810-1865'], adapted from a British Library scan. Here is the British Library [catalog record](http://explore.bl.uk/primo_library/libweb/action/search.do?cs=frb&doc=BLL01013952747_01&dscnt=1&scp.scps=scope:(BLCONTENT)&frbg=&tab=local_tab&srt=rank&ct=search&mode=Basic&dum=true&tb=t&indx=1&vl(freeText0)=013952747_01&fn=search&vid=BLVU1). There may be illustrations from the volume available on [flickr](https://www.flickr.com/photos/britishlibrary/tags/sysnum013952747_01). There may be illustrations from the volume available on [flickr](https://www.flickr.com/photos/britishlibrary/tags/sysnum013952747_01).
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
