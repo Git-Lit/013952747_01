@@ -1,0 +1,60 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:title>Lizzie Leigh and other tales</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>Gaskell, Elizabeth Cleghorn</MODS:namePart>
+            <MODS:namePart type="date">1810-1865</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm authority="marccountry" type="code">enk</MODS:placeTerm>
+            </MODS:place>
+            <MODS:place>
+              <MODS:placeTerm type="text">London</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>Smith, Elder and co.</MODS:publisher>
+            <MODS:dateIssued>1865</MODS:dateIssued>
+            <MODS:edition>Illustrated ed.</MODS:edition>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:language>
+            <MODS:languageTerm authority="iso639-2b" type="code">eng</MODS:languageTerm>
+          </MODS:language>
+          <MODS:physicalDescription>
+            <MODS:form authority="marcform">print</MODS:form>
+            <MODS:extent>274 p. : plates. ; 19 cm.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:tableOfContents>Lizzie Leigh.--The well of Pen-Morfa.--The heart of John Middleton.--The old nurse's story.--Traits and stories of the Huguenots.--Morton Hall.--My French master.--The squire's story.</MODS:tableOfContents>
+          <MODS:note type="statement of responsibility">by Mrs. Gaskell.</MODS:note>
+          <MODS:note>Added t.-p., illus.</MODS:note>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>England</MODS:geographic>
+            <MODS:topic>Social life and customs</MODS:topic>
+            <MODS:temporal>19th century</MODS:temporal>
+            <MODS:topic>Fiction</MODS:topic>
+          </MODS:subject>
+          <MODS:classification authority="lcc">PR4710 .L58 1865</MODS:classification>
+          <MODS:identifier type="lccn">06040393</MODS:identifier>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 12618.aaa.31</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">DLC</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1977-12-29</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="iso8601">20070921112604.0</MODS:recordChangeDate>
+            <MODS:recordIdentifier source="Uk">013952747</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
